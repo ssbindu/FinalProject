@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(206, 229, 238);
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    text-align: center;
+    font-weight: 250;
+    font-style: oblique;
+    color: brown;
+    text-shadow: 1px 1px black;
+  }
+
+  form {
+    border: 2px solid black;
+    box-shadow: 5px 5px gray;
+    width: max-content;
+    border-radius: 5px;
+    padding: 10px;
+    margin: auto;
+    margin-top: 150px;
+  }
+
+  input {
+    padding: 5px;
+    margin: 10px;
+    margin-left: 0;
+  }
+
+  input[type="email"] {
+    border: 2px solid black;
+    box-shadow: 2px 2px rgb(209, 199, 199);
+   
+  }
+
+  input[type="password"] {
+    border: 2px solid black;
+    box-shadow: 2px 2px rgb(209, 199, 199);
+  }
+
+  input[type="submit"] {
+    border: 2px solid black;
+    box-shadow: 2px 2px rgb(209, 199, 199);
+    width: 100%;
+    background-color: rgb(123, 123, 197);
+    color: white;
+    text-shadow: 2px 2px black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+    font-size: 18px;
+  }
+  
+  a{
+    text-decoration: none;
+}
