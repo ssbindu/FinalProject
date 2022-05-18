@@ -64,8 +64,10 @@ This page will show the products you have added to cart and the total amount of 
 
 ### **Technologies I used for this project are:**
 **Frontend:** 
+
 HTML, CSS, Javascript
 **Backend:** 
+
 MysqL
 
 
