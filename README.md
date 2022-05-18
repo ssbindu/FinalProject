@@ -87,3 +87,5 @@ Products added by user can be shown here. User can delete product from here.
 ### Payment: (Yet to be done in the project)
 In the last stage user will be able to make payment and checkout.
 
+
+### How to execute the project:
