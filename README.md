@@ -89,5 +89,12 @@ In the last stage user will be able to make payment and checkout.
 
 
 ### How to execute the project:
+- Download the project.
+- Download nodejs
+- Download MysqL Workbench
+- Inside the files of the project, in connection.js file remove my password from password section and put your password of mysql.
+- In MysqL Workbench, paste these lines of codes:
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'shidursharma';
+FLUSH PRIVILEGES;
 
 
