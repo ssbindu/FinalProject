@@ -79,5 +79,11 @@ Since in this project I did not add any checkout and payment option, I will add 
 ### Brief Explanation of Entities: 
 
 ### User: 
-User can login with his credentials and 
+User can login with his credentials and can add one or many products.
+### Product:
+Products are chosen by user and if user adds to cart, it will be shown in cart.
+### Cart:
+Products added by user can be shown here. User can delete product from here.
+### Payment: (Yet to be done in the project)
+In the last stage user will be able to make payment and checkout.
 
