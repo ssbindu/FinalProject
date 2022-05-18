@@ -55,7 +55,7 @@ Reviews will take you to the current reviews page is having.
 ### 2.7)**Log out and Sign Out:**
 Log out will temporarily log out one user and sign out will permanently delete one customer and all his information form the database. If you log out, it will take you to log in page and if you sign out, it will take you to registration page.
 
-### **Cart:**
+### 2.8)**Cart:**
 This page will show the products you have added to cart and the total amount of price. You can delete any product from cart as well by clicking on delete button. 
 
 ![Screenshot 2022-05-17 183044](https://user-images.githubusercontent.com/103986892/168931970-8bd892f8-1a40-4829-b38b-ca34c4ee5b06.png)
@@ -77,17 +77,17 @@ Since in this project I did not add any checkout and payment option, I will add 
 
 ### 5.1)Brief Explanation of Entities: 
 
-### User: 
+#### User: 
 User can login with his credentials and can add one or many products.
-### Product:
+#### Product:
 Products are chosen by user and if user adds to cart, it will be shown in cart.
-### Cart:
+#### Cart:
 Products added by user can be shown here. User can delete product from here.
-### Payment: (Yet to be done in the project)
+#### Payment: (Yet to be done in the project)
 In the last stage user will be able to make payment and checkout.
 
 
-### 6) How to execute the project:
+### 6. How to execute the project:
 - Download the project.
 - Download nodejs
 - Download MysqL Workbench
