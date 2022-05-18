@@ -1,5 +1,7 @@
 # FinalProject
-Project Title: An E-Commerce website named Dorji
+### Project Title: An E-Commerce website named Dorji
+
+### Project Description:
 
 Hello! This is Shithi Sharma Bindu. Welcome to the description of my very first website. Basically, my website is a simple e-commerce website. In this file I have tried to explain what I have done in this project.
 Features provided: 
