@@ -63,10 +63,10 @@ This page will show the products you have added to cart and the total amount of 
 
 ### 3. **Technologies I used for this project are:**
 3.1) **Frontend:** 
-HTML, CSS, Javascript
+HTML, CSS, Javascript .
 
 3.2) **Backend:** 
-MySQL, Node.js
+MySQL, Node.js .
 
 ### 4. Future Implementations:
 Since in this project I did not add any checkout and payment option, I will add this and update the readme file accordingly.
