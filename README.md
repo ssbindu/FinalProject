@@ -109,3 +109,8 @@ after clicking enter the server will start.
 
 - Then go to search engine and write localhost:3000 and press enter. You will get to see my website..
 
+
+### Issues to Look Out For:
+
+Customers can not place order, that has to be done. Also from cart, if customer wants to add more products, he has to go to home page first, from there he has to go to products. But here customer should have direct access to product page. 
+
