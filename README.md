@@ -66,7 +66,7 @@ This page will show the products you have added to cart and the total amount of 
 HTML, CSS, Javascript
 
 3.2) **Backend:** 
-MySQL
+MySQL, Node.js
 
 ### 4. Future Implementations:
 Since in this project I did not add any checkout and payment option, I will add this and update the readme file accordingly.
