@@ -94,7 +94,8 @@ In the last stage user will be able to make payment and checkout.
 - Download MysqL Workbench
 - Inside the files of the project, in connection.js file remove my password from password section and put your password of mysql.
 - In MysqL Workbench, paste these lines of codes:
-ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'shidursharma';
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'Your Password';
+
 FLUSH PRIVILEGES;
 
 
