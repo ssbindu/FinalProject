@@ -16,7 +16,7 @@ Features provided:
 •	Cart
 
 
-**Registration Page:** This is the first page you will see in this website. This page will ask for your information like First Name, Last Name, Email id, Password, Date of Birth. After filling all this you can submit your information, and it will directly take you to the login page. But if you are already registered, you can directly go to the Log in page by clicking Log in HERE. If you try to register with same email id but with different other information, it will show that email id already exists. It will not let you do so.
+#### **Registration Page:** This is the first page you will see in this website. This page will ask for your information like First Name, Last Name, Email id, Password, Date of Birth. After filling all this you can submit your information, and it will directly take you to the login page. But if you are already registered, you can directly go to the Log in page by clicking Log in HERE. If you try to register with same email id but with different other information, it will show that email id already exists. It will not let you do so.
 
 ![Screenshot 2022-05-17 182017](https://user-images.githubusercontent.com/103986892/168931159-6c0b3aa3-be68-40e0-aaf9-b10dd41e9638.png)
 
