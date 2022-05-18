@@ -107,3 +107,5 @@ npm run dev
 
 after clicking enter the server will start.
 
+- Then go to search engine and write localhost:3000 and press enter. You will get to see my website.
+
