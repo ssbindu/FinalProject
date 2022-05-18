@@ -53,7 +53,7 @@ Reviews will take you to the current reviews page is having.
 
 ![Screenshot 2022-05-17 182708](https://user-images.githubusercontent.com/103986892/168931898-fd2f45aa-0410-4167-a444-5ac410263df7.png)
 
-### **Log out and Sign Out: **
+### Log out and Sign Out:
 Log out will temporarily log out one user and sign out will permanently delete one customer and all his information form the database. If you log out, it will take you to log in page and if you sign out, it will take you to registration page.
 
 ### **Cart:**
