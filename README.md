@@ -69,5 +69,11 @@ HTML, CSS, Javascript
 **Backend:** 
 MysqL
 
+### ER Diagram:
+
+![Screenshot 2022-05-17 205857](https://user-images.githubusercontent.com/103986892/168935914-c338cdb1-65e2-40a1-80b0-74f622a1d437.png)
+
+### Brief Explanation of Entities: 
+
 
 
