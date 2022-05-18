@@ -62,9 +62,11 @@ This page will show the products you have added to cart and the total amount of 
 ![Screenshot 2022-05-17 183044](https://user-images.githubusercontent.com/103986892/168931970-8bd892f8-1a40-4829-b38b-ca34c4ee5b06.png)
 
 
-**Technologies I used for this project are:**
-**Frontend:** HTML, CSS, Javascript
-**Backend:** MysqL
+### **Technologies I used for this project are:**
+**Frontend:** 
+HTML, CSS, Javascript
+**Backend:** 
+MysqL
 
 
 
