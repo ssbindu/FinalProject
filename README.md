@@ -16,7 +16,7 @@ Features provided:
 -   Cart
 
 ### 2.1) **Registration Page:**
-This is the first page you will see in this website. This page will ask for your information like First Name, Last Name, Email id, Password, Date of Birth. After filling all this you can submit your information, and it will directly take you to the login page. But if you are already registered, you can directly go to the Log in page by clicking Log in HERE. If you try to register with same email id but with different other information, it will show that email id already exists. It will not let you do so.
+This is the first page you will see in this website. This page will ask for your information like First Name, Last Name, Email id, Password, Date of Birth. After filling all this you can submit your information, and it will directly take you to the login page. But if you are already registered, you can directly go to the Log in page by clicking Log in HERE. If you try to register with same email id but with different other information, it will show that email id already exists. It will not let you to register.
 
 ![Screenshot 2022-05-17 182017](https://user-images.githubusercontent.com/103986892/168931159-6c0b3aa3-be68-40e0-aaf9-b10dd41e9638.png)
 
@@ -66,7 +66,7 @@ This page will show the products you have added to cart and the total amount of 
 HTML, CSS, Javascript
 
 3.2) **Backend:** 
-MysqL
+MySQL
 
 ### 4. Future Implementations:
 Since in this project I did not add any checkout and payment option, I will add this and update the readme file accordingly.
@@ -90,8 +90,8 @@ In the last stage user will be able to make payment and checkout.
 ### 6. How to execute the project:
 - Download the project.
 - Download nodejs
-- Download MysqL Workbench
-- Inside the files of the project, in connection.js file remove my password from password section and put your password of mysql.
+- Download MySQL Workbench
+- Inside the files of the project, in connection.js file remove my password from password section and put your password of MySQL.
 - In MysqL Workbench (in query 1), paste these lines of codes:
 
 ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'Your Password';
@@ -100,7 +100,7 @@ FLUSH PRIVILEGES;
 
 create schema ecom_bindu;
 
-- Then go to terminal and write the single line of code 
+- Then go to terminal and write the single line of code mentioned below: 
 
 npm run dev
 
