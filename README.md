@@ -1,5 +1,5 @@
 # FinalProject
-An E-Commerce website
+Project Title: An E-Commerce website named Dorji
 
 Hello! This is Shithi Sharma Bindu. Welcome to the description of my very first website. Basically, my website is a simple e-commerce website. In this file I have tried to explain what I have done in this project.
 Features provided: 
@@ -12,11 +12,6 @@ Features provided:
 •	Log out
 •	Sign out
 •	Cart
-
-
-**Technologies I used for this project are:**
-**Frontend:** HTML, CSS, Javascript
-**Backend:** MysqL
 
 
 **Registration Page:** This is the first page you will see in this website. This page will ask for your information like First Name, Last Name, Email id, Password, Date of Birth. After filling all this you can submit your information, and it will directly take you to the login page. But if you are already registered, you can directly go to the Log in page by clicking Log in HERE. If you try to register with same email id but with different other information, it will show that email id already exists. It will not let you do so.
@@ -55,6 +50,11 @@ Features provided:
 **Cart:** This page will show the products you have added to cart and the total amount of price. You can delete any product from cart as well by clicking on delete button. 
 
 ![Screenshot 2022-05-17 183044](https://user-images.githubusercontent.com/103986892/168931970-8bd892f8-1a40-4829-b38b-ca34c4ee5b06.png)
+
+
+**Technologies I used for this project are:**
+**Frontend:** HTML, CSS, Javascript
+**Backend:** MysqL
 
 
 
